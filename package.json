@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.10.3",
+    "lodash": "^4.17.14",
     "nodejs-websocket": "^1.7.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
